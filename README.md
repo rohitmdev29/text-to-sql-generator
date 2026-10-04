@@ -223,15 +223,4 @@ Colab GPU quota expired.
 
 
 
-## Links
 
-- **GitHub Repository:** [github.com/rohitmdev29/text-to-sql-generator](https://github.com/rohitmdev29/text-to-sql-generator)
-- **LoRA Adapter:** [rmehra007/gemma-sql-lora](https://huggingface.co/rmehra007/gemma-sql-lora)
-- **Merged Model:** [rmehra007/gemma-sql-merged](https://huggingface.co/rmehra007/gemma-sql-merged)
-- **GGUF Model:** [rmehra007/gemma-sql-merged-GGUF](https://huggingface.co/rmehra007/gemma-sql-merged-GGUF)
-
----
-
-## License
-
-MIT License. Use it however you want.

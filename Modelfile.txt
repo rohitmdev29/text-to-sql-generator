@@ -1,0 +1,14 @@
+FROM ./gemma-sql-merged-q8_0.gguf
+
+TEMPLATE """### Task:
+Generate a SQL query for the following question.
+
+### Schema:
+{{ .Prompt }}
+
+### SQL Query:
+"""
+
+PARAMETER temperature 0
+PARAMETER stop "<eos>"
+PARAMETER stop "###"

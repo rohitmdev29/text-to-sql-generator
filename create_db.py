@@ -1,7 +1,7 @@
 # ============================================
 # E-commerce Database Setup Script
 # Author: Rohit Mehra
-# Created: August 2025
+
 # 
 # I built this script to create a sample e-commerce database
 # with customers, products, and orders. I made this because 
